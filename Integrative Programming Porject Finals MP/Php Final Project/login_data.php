@@ -34,7 +34,7 @@ else if (empty($pass)){
             $_SESSION['email_add'] = $row['email_add'];
             $_SESSION['id'] = $row['id'];
 
-            header("Location: index.htm");
+            header("Location: home.php");
             exit();
         }else{
             header("Location: login.php?error=Incorect User name or password");
