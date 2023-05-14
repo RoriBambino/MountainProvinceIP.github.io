@@ -57,7 +57,7 @@
       <div
         class="container-fluid container-xl d-flex align-items-center justify-content-between"
       >
-        <a href="index.htm" class="logo d-flex align-items-center">
+        <a href="#" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
           <img src="Images/Logo.png" alt="" />
           <h1>Mountain Province<span></span></h1>
